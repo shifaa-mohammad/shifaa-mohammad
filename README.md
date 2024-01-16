@@ -1,2 +1,2 @@
-- 👋 Hi, I’m shifaa-mohammad
+- 👋 Hi, I’m shifaa mohammad
 - 👀 I’m interested in programming
